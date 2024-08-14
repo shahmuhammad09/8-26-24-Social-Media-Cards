@@ -1,0 +1,91 @@
+body{
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 100px;
+    padding-top: 55px;
+    padding-bottom: 50px;
+    }
+    .container{
+        display: flex;
+    }
+    .Twitter{
+        border: 2px solid black;
+        border-radius: 10px;
+        text-align: center;
+        width: 250px;
+        padding: 10px;
+        height: 400px;
+        padding: 35px;
+        margin-right: 50px;
+    }
+    .Twitter img{
+        height: 70px;
+        width: 90px;
+    }
+    .Twitter h1{
+    text-transform: uppercase;
+    }
+    .Twitter button{
+        border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    }
+    
+    .Instagram{
+        border-radius: 10px;
+        border: 2px solid black;
+        text-align: center;
+        width: 250px;
+        padding: 10px;
+        height: 400px;
+        align-items: center;
+        padding: 35px;
+        background-color: #e2306c;
+        color: white;
+        margin-right: 50px;
+    }
+    .Instagram img{
+        height: 70px;
+        width: 70px;
+        background: transparent;
+        -webkit-filter: invert(100%);
+    }
+    .Instagram h1{
+    text-transform: uppercase;
+    }
+    .Instagram button{
+        border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    color: deeppink;
+    border: none;
+    }
+    .Youtube{
+        border: 2px solid black;
+        border-radius: 10px;
+        text-align: center;
+        width: 250px;
+        padding: 10px;
+        height: 400px;
+        align-items: center;
+        padding: 35px;
+        margin-right: 50px;
+        
+    }
+    .Youtube img{
+        height: 70px;
+        width: 90px;
+    }
+    .Youtube h1{
+    text-transform: uppercase;
+    }
+    .Youtube button{
+        border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    }
